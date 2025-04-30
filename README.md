@@ -1,2 +1,2 @@
-# An-lise-de-Dados-Ambientais-para-Solu-es-Sustent-veis-nas-Cidades
-codigo de analise de dados utilizando extensão jupyter notebook no vscode.
+# Anlise-de-Dados-Ambientais-para-Soluções-Sustentaveis-nas-Cidades
+codigo de analise de dados utilizando extensão jupyter notebook  e linguagem Python no vscode.
